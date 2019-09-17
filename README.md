@@ -2,7 +2,7 @@
 
 ## Procedure for adding new microcopy to the repository:
 
-1. Open [Microcopy.md](https://github.com/bornfight/microcopy/blob/master/MICROCOPY.md)
+1. Open [MICROCOPY.md](https://github.com/bornfight/microcopy/blob/master/MICROCOPY.md)
 2. Check if the microcopy is not already present 
 3. If it is, maybe it's worth updating
 4. If it's not, specify for what the microcopy should be used
