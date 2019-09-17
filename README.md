@@ -1,11 +1,10 @@
 # Contributing
 
-## Procedure for adding new rules to the repository:
+## Procedure for adding new microcopy to the repository:
 
-1. Check if the error is recurring or critical (important for everybody)
-2. Check if the error is not covered by some of the previous rules
-3. Write a rule to correct the mistake
-4. Write a short code snippet (https://help.github.com/articles/creating-and-highlighting-code-blocks/)
-5. Keep it generic and avoid copy/pasting from private projects
-6. Create a pull request and assign it to fajdof, tamaramilisa or d-srd
-7. Enjoy as your rule takes its rightful place in the docs :)
+1. Check if the microcopy is not already present 
+2. If it is, maybe it's worth updating
+3. If it's not, specify for what the microcopy should be used
+4. Write an example of a bad microcopy for the same situation
+5. Check out the [Markdown syntax](https://github.github.com/gfm/) if you are not sure how Markdown works
+6. Enjoy as your microcopy takes its rightful place among others :)
